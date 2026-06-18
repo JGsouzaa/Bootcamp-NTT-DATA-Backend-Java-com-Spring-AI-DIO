@@ -1,0 +1,7 @@
+== Create Task
+
+Create new task
+
+=== Request
+
+include::{snippets}/create-task/curl-request.adoc[]
